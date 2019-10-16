@@ -1,0 +1,47 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Phani's Tesla",
+      "year": 2019,
+      "make": "Tesla",
+      "model": "Model-S",
+      "address": "3265 NW 107th Ave, Doral, FL 33172",
+      "latitude": 25.803480,
+	  "longitude": -80.369019,
+	  "hourlyRate": 10,
+	  "dailyRate": 100,
+	  "mileageRangeId": 4,
+	  "notes": "Phani's Red Tesla - Cool ride",
+	  "usb": true,
+	  "bluetooth": true,
+	  "backupCamera": true,
+	  "gps": true,
+	  "hybrid": false,
+	  "sunroof": true
+    },
+    {
+      "id": 2,
+      "name": "Suresh's Merc",
+      "year": 2018,
+      "make": "Mercedes",
+      "model": "GLE",
+      "address": "7110 SW 58th Ave, South Miami, FL 33143",
+      "latitude": 25.705650,
+	  "longitude": -80.287480,
+	  "hourlyRate": 7.5,
+	  "dailyRate": 90,
+	  "mileageRangeId": 2,
+	  "notes": "Suresh's White Merc - SUV",
+	  "usb": true,
+	  "bluetooth": true,
+	  "backupCamera": true,
+	  "gps": true,
+	  "hybrid": false,
+	  "sunroof": true
+    }
+  ],
+  "profile": {
+    "name": "carsamplefortest"
+  }
+}
